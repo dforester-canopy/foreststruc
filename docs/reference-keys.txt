@@ -23,3 +23,11 @@ url-your-book-url-like-httpsbookdown.orgyihuibookdown
 fig:nice-fig
 tab:nice-tab
 introduction
+about-the-book
+scale-dependency-of-forests-canopies
+introduction-1
+forest-structure-as-a-landscape
+horizontal-complexities
+vertical-variations
+forest-as-the-indivitual
+preface
