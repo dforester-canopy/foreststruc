@@ -1,0 +1,11 @@
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
+rmd.files:
+  - index.Rmd
+  - 01-Introduction
+  - 02-Individual tree structures
+  - 03-
+output_dir: "docs"
+
