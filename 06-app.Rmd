@@ -1,4 +1,19 @@
-# Blocks
+# Application of each metrics
+## Overview {-}
+I think I will be basically worn out after finishing the 5 chapters up front. Thinking about the application of it its going to be tiring but whatever. I think itself can be written into a review paper tho (to be honest). and yeah after caterotization it can be categorized into so so so much. My thoughts right now is like below:
+
+## Environments of Forests
+### microclimates
+#### carbon {-}
+#### water {-}
+### biogeochemical
+## Dynamics of Forests
+### regeneration (growth)
+### disturbances
+#### fires {-}
+#### pests...etc {-}
+## Biodiversity
+### habitat etc birs and animals? Who knows
 
 ## Equations
 

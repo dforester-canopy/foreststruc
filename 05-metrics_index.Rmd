@@ -1,4 +1,12 @@
-# Footnotes and citations 
+# Important metrics
+## Overview {-}
+This place will be very very very much focus on the metrics and mathematical side of how things are generated. Some important calculations like LAI, PAI, QSM calculation methods. QSM itself already have so much different methods already (OMG) 
+
+## Horizontal complexity metrics
+## Vertical complexity metrics
+## Single tree metrics
+## Canopy architecture metrics
+## Complexity index
 
 ## Footnotes
 

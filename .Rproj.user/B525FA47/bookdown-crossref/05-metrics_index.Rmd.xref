@@ -1,4 +1,10 @@
-h1:footnotes-and-citations Footnotes and citations
+h1:important-metrics Important metrics
+h2:overview Overview
+h2:horizontal-complexity-metrics Horizontal complexity metrics
+h2:vertical-complexity-metrics Vertical complexity metrics
+h2:single-tree-metrics Single tree metrics
+h2:canopy-architecture-metrics Canopy architecture metrics
+h2:complexity-index Complexity index
 h2:footnotes Footnotes
 h2:citations Citations
 

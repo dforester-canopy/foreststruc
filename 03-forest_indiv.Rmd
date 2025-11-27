@@ -1,4 +1,7 @@
-# Forest as the indivitual
+# Forest as the individual
+## Overview {-}
+
+This chapter sees forests as a community of trees that comes and grows together. Segmentation of trees to see them as every individual who are special in all shapes and sizes. 
 
 Cross-references make it easier for your readers to find and link to elements in your book.
 

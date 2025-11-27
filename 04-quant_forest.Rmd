@@ -1,4 +1,22 @@
-# Parts
+# Quantifying Forests in detail
+## Overview {-}
+So I think the chapters up front will mention about the concepts and a general table of every forest structure. However, this chapter focus at the processing pipeline after getting a point cloud data. From the folder types, LiDAR scanning processes, processing pipelines. Can have more cross referrencing.Take it also like a documentation of process
+
+## Basic of LiDAR
+
+## Field sampling (data collection)
+This section focuses at the forest data collection using LiDAR, at the moment focus abit on TLS cause I am using them. But future may add on SLAM, GNSS models (PLS) and large scale LiDAR (drone and airborne LiDAR). The standard procedures to collect datasets
+
+## Co-register
+
+## Cloud-compare
+## run_datasets on python
+## Single tree segmentation
+## Wood-leaf separations
+## Voxelization
+## Quantification Strucutre Model (QSM)
+
+  
 
 You can add parts to organize one or more book chapters together. Parts can be inserted at the top of an .Rmd file, before the first-level chapter heading in that same file. 
 

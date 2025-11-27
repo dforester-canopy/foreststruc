@@ -1,6 +1,8 @@
 # Forest structure as a landscape 
+## Overview {-}
 
-All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
+This section I was thinking to think forest as a landscape ecology. Forest is not something just in a plot but is a whole mountain or landscape. It changes along different altitude and height too~~ So there are a lot can be discussed here but we are looking at its complexities. In terms of "HORIZONTAL" and "VERTICAL". 
+
 
 ## Horizontal complexities
 
@@ -9,6 +11,15 @@ All chapter sections start with a second-level (`##`) or higher heading followed
 ### An unnumbered section {-}
 
 Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
+
+How to create a metric table
+```{r nice-tab, tidy=FALSE}
+knitr::kable(
+  head(pressure, 10), caption = 'Should be a metric table',
+  booktabs = TRUE
+)
+```
+
 
 ## Vertical variations
 
